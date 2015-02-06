@@ -2,10 +2,11 @@
 
 Demonstrates the use of the [ckupdate](https://github.com/ComponentKitchen/ckupdate) extension that allows npm to install web components and other front-end libraries.
 
-This project is a modified fork of
-[printable-wall-calendar](https://github.com/JanMiksovsky/printable-wall-calendar), a simple web components-based application
-that originally used Bower to install components. This fork eliminates the need for Bower, allowing the app to be installed
-just with npm.
+This project is a modified fork of the [source](https://github.com/JanMiksovsky/printable-wall-calendar) for
+[printable-wall-calendar](http://janmiksovsky.github.io/printable-wall-calendar), a simple
+web components-based application. The original source uses Bower to install components.
+This fork eliminates the need for Bower, allowing the app to be installed
+just with npm and the ckupdate extension.
 
 Dependencies in the package.json file point to forks of various web component projects. These forks are essentially the same
 as the original web component repos. The only change has been the addition of a package.json manifest (or modification of an
