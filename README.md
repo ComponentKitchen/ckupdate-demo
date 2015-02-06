@@ -14,12 +14,7 @@ existing one), and the use of the "flatten" keyword. That keyword instructs ckup
 
 ##Installation
 
-Once you have the [ckupdate](https://github.com/ComponentKitchen/ckupdate) tool installed, you can install this demo
-app with just:
-
-    npm install ComponentKitchen/ckupdate-demo
-
-Alternately:
+Once you have the [ckupdate](https://github.com/ComponentKitchen/ckupdate) tool installed, you can install this by:
 
     git clone git@github.com:ComponentKitchen/ckupdate-demo
     cd ckupdate-demo
