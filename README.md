@@ -1,6 +1,6 @@
 # ckupdate-demo
 
-Demonstrates the use of the [ckupdate](https://github.com/ComponentKitchen/ckupdate) extension that allows npm to install web components and other front-end libraries.
+Demonstrates the use of the [ckupdate](https://github.com/ComponentKitchen/ckupdate) prototype extension that allows npm to install web components and other front-end libraries.
 
 This project is a modified fork of the [source](https://github.com/JanMiksovsky/printable-wall-calendar) for
 [printable-wall-calendar](http://janmiksovsky.github.io/printable-wall-calendar), a simple
@@ -13,6 +13,9 @@ as the original web component repos. The only change has been the addition of a 
 existing one), and the use of the "flatten" keyword. That keyword instructs ckupdate to flatten the dependency.
 
 ##Installation
+
+Once you have the [ckupdate](https://github.com/ComponentKitchen/ckupdate) tool installed, you can install this demo
+app with just:
 
     npm install ComponentKitchen/ckupdate-demo
 
